@@ -32,7 +32,7 @@ My ongoing project exploring deeper concepts in JavaScript and its ecosystem.
 
 📫 How to Reach Me
 
-Email: [your-email@example.com]
+Email: [fuaadabdulahi5@gmail.com]
 
 LinkedIn: linkedin.com/in/fuadsulub
 
