@@ -10,11 +10,12 @@ and frameworks across the full stack. From front-end interactivity to back-end l
 🚀 What I Work With.
 
 Front-End
-
 JavaScript (ES6+)
 React, Next.js
 HTML5, CSS3, Sass, TailwindCSS
+
 Back-End
+
 Node.js, Express
 RESTful & GraphQL APIs
 Databases: MongoDB, PostgreSQL
@@ -22,8 +23,11 @@ Tools & DevOps
 Git, GitHub, Docker
 CI/CD (GitHub Actions)
 Cloud Platforms: AWS, Vercel
+
 💼 Current Project
+
 main-javascript:
+
 My ongoing project exploring deeper concepts in JavaScript and its ecosystem.
 
 📫 How to Reach Me
