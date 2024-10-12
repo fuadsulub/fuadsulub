@@ -1,7 +1,12 @@
 👋 Hi, I'm Fuad Sulub!
 Full-Stack Developer | Problem Solver | Lifelong Learner
 
-Welcome to my corner of GitHub! I specialize in building scalable, high-performance web applications, leveraging modern tools and frameworks across the full stack. From front-end interactivity to back-end logic, I'm passionate about creating seamless digital experiences
+Welcome to my corner of GitHub! I specialize in building scalable, high-performance web applications, leveraging modern tools 
+
+and frameworks across the full stack. From front-end interactivity to back-end logic, I'm passionate about creating seamless digital experiences
+
+
+
 🚀 What I Work With
 Front-End
 JavaScript (ES6+)
