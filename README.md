@@ -7,8 +7,10 @@ and frameworks across the full stack. From front-end interactivity to back-end l
 
 
 
-🚀 What I Work With
+🚀 What I Work With.
+
 Front-End
+
 JavaScript (ES6+)
 React, Next.js
 HTML5, CSS3, Sass, TailwindCSS
@@ -23,13 +25,23 @@ Cloud Platforms: AWS, Vercel
 💼 Current Project
 main-javascript:
 My ongoing project exploring deeper concepts in JavaScript and its ecosystem.
+
 📫 How to Reach Me
+
 Email: [your-email@example.com]
+
 LinkedIn: linkedin.com/in/fuadsulub
+
 🌱 What I'm Learning
+
 Advanced TypeScript
+
 Serverless Architecture
+
 Web Performance Optimization
+
 💡 Fun Fact
+
 When I'm not coding, you can find me diving into tech communities or experimenting with new tools!
+
 Feel free to fork, contribute, or collaborate on any of my projects. Let's build something great together! 🚀
