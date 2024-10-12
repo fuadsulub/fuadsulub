@@ -1,9 +1,11 @@
 👋 Hi, I'm Fuad Sulub!
 Full-Stack Developer | Problem Solver | Lifelong Learner
 
-Welcome to my corner of GitHub! I specialize in building scalable, high-performance web applications, leveraging modern tools 
+Welcome to my corner of GitHub! I specialize in building scalable,
+high-performance web applications, leveraging modern tools 
 
-and frameworks across the full stack. From front-end interactivity to back-end logic, I'm passionate about creating seamless digital experiences
+and frameworks across the full stack. From front-end interactivity to back-end logic,
+I'm passionate about creating seamless digital experiences
 
 
 
@@ -11,17 +13,26 @@ and frameworks across the full stack. From front-end interactivity to back-end l
 
 Front-End
 JavaScript (ES6+)
+
 React, Next.js
+
 HTML5, CSS3, Sass, TailwindCSS
+
 
 Back-End
 
 Node.js, Express
+
 RESTful & GraphQL APIs
+
 Databases: MongoDB, PostgreSQL
+
 Tools & DevOps
+
 Git, GitHub, Docker
+
 CI/CD (GitHub Actions)
+
 Cloud Platforms: AWS, Vercel
 
 💼 Current Project
@@ -30,11 +41,7 @@ main-javascript:
 
 My ongoing project exploring deeper concepts in JavaScript and its ecosystem.
 
-📫 How to Reach Me
 
-Email: [fuaadabdulahi5@gmail.com]
-
-LinkedIn: linkedin.com/in/fuadsulub
 
 🌱 What I'm Learning
 
