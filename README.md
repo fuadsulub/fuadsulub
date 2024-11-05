@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@fuadsulub" target="blank"><img src="https://img.shields.io/twitter/follow/@fuadsulub?logo=twitter&style=for-the-badge" alt="@fuadsulub" /></a> </p>
 
-- ⚡ Fun fact **so funny**
+- ⚡ Fun fact **so fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
