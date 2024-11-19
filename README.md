@@ -1,5 +1,5 @@
 
-https://www.applify.com.sg/blog/wp-content/uploads/2023/05/how-to-hire-a-web-developer-696x395.jpg
+https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg
 <h1 align="center">Hi 👋, I'm fuad sulub</h1>
 <h3 align="center">A passionate full-Stack developer</h3>
 
