@@ -1,9 +1,9 @@
 
-https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg
+<p align="center"> <img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" /> </p>
 <h1 align="center">Hi 👋, I'm fuad sulub</h1>
 <h3 align="center">A passionate full-Stack developer</h3>
 
-<p align="left"> <img src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg" /> </p>
+<p align="center"> <img src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@fuadsulub" target="blank"><img src="https://img.shields.io/twitter/follow/@fuadsulub?logo=twitter&style=for-the-badge" alt="@fuadsulub" /></a> </p>
 
